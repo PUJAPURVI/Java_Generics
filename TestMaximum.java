@@ -27,5 +27,3 @@ public class TestMaximum {
         maxInt(a,b,c);// UC1
     }
 }
-
-}
